@@ -1,4 +1,4 @@
-# reckless-withdrawals
+# Reckless withdrawals
 Reckless-Withdrawals is a collection of scripts to subtract BTC from Lightning Network enabled custodial services. 
 
 **Read the full explanation on how this exploit works in: LN+, Reddit or Y'alls .**
