@@ -1,5 +1,5 @@
-# Reckless withdrawals
-Reckless-Withdrawals is a collection of scripts to subtract BTC from Lightning Network enabled custodial services. 
+# Lightning Network Fee Siphoning Attack
+LN-fee-siphoning is a collection of scripts to subtract BTC from Lightning Network enabled custodial services by means of placing a node-in-the-middle and forcing routing and fee collection.
 
 **Read the full explanation on how this exploit works in: [LN+](https://lightningnetwork.plus/posts/37), [Reddit](https://www.reddit.com/r/Bitcoin/comments/pqjcvo/stealing_sats_from_the_lightning_network/) or [Y'alls](https://yalls.org/articles/97d67df1-d721-417d-a6c0-11d793739be9:0965AC5E-56CD-4870-9041-E69616660E6F/c9a4f36e-3bf8-4487-b3e0-272eb374ce2f) .**
 
